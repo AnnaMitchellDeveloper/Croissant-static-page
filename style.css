@@ -1,10 +1,6 @@
 body {
 	background: wheat;
 }
-a {
-	margin-top: 30px;
-	color: green;
-}
 h1, p {
 	text-align: center;
 }
@@ -14,8 +10,11 @@ img {
 	max-width: 600px;
 	border-radius: 10px;
 }
-.links {
-	display: flex;
-	justify-content: space-evenly;
+footer {
+	margin-top: 30px;
+	text-align: center;
+}
+footer a {
+	margin: 20px;
 }
 
